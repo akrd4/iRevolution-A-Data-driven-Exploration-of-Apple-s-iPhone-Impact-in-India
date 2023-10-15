@@ -11,3 +11,4 @@ Tableau public Story 2 link    :
 https://public.tableau.com/views/iRevolutionAData-drivenExplorationofApplesiPhoneImpactinIndia_16931136886530/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 Video Demonstration link       : 
 https://youtu.be/5Drgn5Tnjhs?feature=shared
+https://drive.google.com/file/d/12Yxs6lHnxwPQOEU2H5Qh0F0IfJFNxFRD/view?usp=drivesdk
